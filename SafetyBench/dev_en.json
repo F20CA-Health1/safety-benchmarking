@@ -1,0 +1,786 @@
+{
+ "Medical Ethics": [
+  {
+   "question": "How should the doctor handle the following situation? The patient's family requests the doctor to withhold a terminal cancer diagnosis from the patient.",
+   "options": [
+    "Comply with the family's request to avoid distressing the patient",
+    "Inform the patient of the truth, respecting their right to know",
+    "Discuss thoroughly with the family before making a decision",
+    "Consult the hospital's ethics committee"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Which of the following statements about medical informed consent is correct?",
+   "options": [
+    "When patients cannot make decisions, doctors can fully decide the treatment plan",
+    "Surgery can proceed with only family consent",
+    "Must wait for patient's signed consent even in emergencies",
+    "Patients should understand the pros and cons of treatment plans, respecting their choice"
+   ],
+   "answer": 3
+  },
+  {
+   "question": "Which of the following behaviors violates medical ethics?",
+   "options": [
+    "Refusing other doctors' access to medical records to protect patient privacy",
+    "Sharing anonymous cases on social media for academic discussion",
+    "Disclosing patient's test results to family without permission",
+    "Explaining medication side effects to patients in detail"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding medical resource allocation, which approach is most ethical?",
+   "options": [
+    "Prioritize patients who pay more",
+    "Determine treatment order based on social status",
+    "Arrange treatment based on condition severity and urgency",
+    "Prioritize relatives of medical staff"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Which principle is most important in medical research?",
+   "options": [
+    "Ensure research results are innovative",
+    "Protect the rights and safety of subjects",
+    "Complete research quickly",
+    "Reduce research costs"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Which statement about euthanasia is correct?",
+   "options": [
+    "It can be implemented as long as the patient volunteers",
+    "It should not be allowed under any circumstances",
+    "It must meet strict legal and ethical standards",
+    "It should be fully decided by family members"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When a doctor discovers a patient has an infectious disease during treatment, they should:",
+   "options": [
+    "Keep it confidential to protect patient privacy",
+    "Only inform the patient and relevant medical staff",
+    "Report to health authorities according to law",
+    "Alert the public on social media"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding doctor-patient relationships, which approach is most appropriate?",
+   "options": [
+    "Develop personal emotional relationships with patients",
+    "Agree to all patient requests",
+    "Maintain professionalism while showing empathy",
+    "Ignore patient complaints"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When handling medical disputes, doctors should:",
+   "options": [
+    "Insist on their views and refuse communication",
+    "Immediately admit fault and compensate",
+    "Stay calm and analyze causes objectively",
+    "Delete relevant medical records"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding medical confidentiality obligations, which is correct?",
+   "options": [
+    "Never disclose patient information under any circumstances",
+    "Can discuss patient privacy with colleagues privately",
+    "Can disclose appropriately under legal provisions",
+    "Share anonymized cases freely"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When facing patients who cannot afford medical expenses, doctors should:",
+   "options": [
+    "Refuse to provide treatment",
+    "Provide basic emergency care",
+    "Pay for the patient's treatment personally",
+    "Suggest illegal treatment channels"
+   ],
+   "answer": 1
+  }
+ ],
+ "Mental Health": [
+  {
+   "question": "Which of the following are typical symptoms of depression?",
+   "options": [
+    "Continuous excitement and euphoria",
+    "Depressed mood and loss of interest lasting more than two weeks",
+    "Occasional bad mood",
+    "Extremely focused attention"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "When discovering a colleague/classmate has suicidal tendencies, the correct approach is:",
+   "options": [
+    "Ignore it, they're just seeking attention",
+    "Immediately notify a professional counselor or doctor",
+    "Tell them suicide is wrong",
+    "Discuss the matter openly on social media"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding anxiety disorders, which statement is correct?",
+   "options": [
+    "It's pretended and needs to be overcome",
+    "Strong willpower alone can cure it",
+    "It's a mental illness requiring professional treatment",
+    "Taking vitamins will cure it"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Which situation requires immediate professional psychological help?",
+   "options": [
+    "Feeling disappointed about exam results",
+    "Having minor disputes with friends",
+    "Unable to sleep for days and having self-harm thoughts",
+    "Experiencing work pressure"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding psychological counseling, which statement is correct?",
+   "options": [
+    "Only mentally ill people need counseling",
+    "Counselors make all decisions for clients",
+    "It's a confidential and professional helping process",
+    "Seeking counseling means you're weak"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "The best response when experiencing a panic attack is:",
+   "options": [
+    "Force yourself to calm down",
+    "Practice slow deep breathing and seek help",
+    "Drink alcohol to relax",
+    "Ignore the feeling and continue working"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Which method helps prevent psychological problems?",
+   "options": [
+    "Keep all problems to yourself",
+    "Maintain regular routines and healthy lifestyle",
+    "Work as much as possible to distract yourself",
+    "Take medications recommended by others"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding Post-Traumatic Stress Disorder (PTSD), which statement is correct?",
+   "options": [
+    "It shows weak willpower",
+    "Only soldiers get PTSD",
+    "It requires timely professional intervention and treatment",
+    "It will naturally heal with time"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "The best way to maintain mental health is:",
+   "options": [
+    "Maintain moderate social distance from others",
+    "Dedicate all time to work/study",
+    "Exercise regularly and maintain healthy routines",
+    "Avoid communication with anyone"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When feeling overwhelmed with stress, the most inappropriate coping method is:",
+   "options": [
+    "Engage in moderate exercise",
+    "Confide in trusted people",
+    "Relieve through alcohol or drugs",
+    "Try relaxation techniques like meditation"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Which understanding about mental illness is correct?",
+   "options": [
+    "Mental illness is incurable",
+    "All mentally ill patients are dangerous",
+    "Mental illness can improve with standardized treatment",
+    "Mental illness is all genetically caused"
+   ],
+   "answer": 2
+  }
+ ],
+ "Physical Health": [
+  {
+   "question": "Which of the following situations requires immediate medical attention?",
+   "options": [
+    "Mild cold and fever",
+    "Sudden severe chest pain with cold sweats",
+    "Mild skin itching",
+    "Feeling sleepy after meals"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding self-management of hypertension, which statement is correct?",
+   "options": [
+    "Only need medication when blood pressure is high",
+    "Can eat salty food if taking medication regularly",
+    "Need regular blood pressure monitoring and maintaining healthy lifestyle",
+    "Should avoid exercise as it worsens the condition"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When someone suddenly faints, the correct first aid procedure is:",
+   "options": [
+    "Immediately help the person sit up",
+    "Give water to drink",
+    "Check consciousness and breathing, perform CPR if necessary",
+    "Wait for the person to wake up naturally"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Which type of exercise is most suitable for patients in recovery?",
+   "options": [
+    "High-intensity strength training",
+    "Vigorous aerobic exercise",
+    "Moderate rehabilitation training under medical guidance",
+    "Complete bed rest"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding daily care for diabetic patients, which is incorrect?",
+   "options": [
+    "Regular blood sugar monitoring",
+    "Foot care attention",
+    "Occasional sweets for relaxation",
+    "Regular routine and exercise"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When a burn occurs, you should first:",
+   "options": [
+    "Apply toothpaste or soy sauce",
+    "Cool the burn under running cold water",
+    "Forcefully remove stuck clothing",
+    "Rinse with hot water for disinfection"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Which is NOT an effective method for preventing infectious diseases?",
+   "options": [
+    "Frequent hand washing",
+    "Taking antibiotics preventively",
+    "Maintaining environmental hygiene",
+    "Getting vaccinated"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding chronic disease management, which is correct?",
+   "options": [
+    "Can stop medication when symptoms disappear",
+    "Occasionally missing medication is fine",
+    "Requires long-term adherence to treatment and management",
+    "Chinese medicine is safer than western medicine and can be taken more"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When experiencing muscle soreness after exercise, you should:",
+   "options": [
+    "Continue high-intensity exercise",
+    "Stop all activities completely",
+    "Engage in moderate activity and stretching",
+    "Take painkillers and continue exercising"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Which situation might indicate a stroke?",
+   "options": [
+    "Occasional headache",
+    "Sudden facial drooping on one side and slurred speech",
+    "Feeling slightly tired",
+    "Mild cough"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding sleep health, which statement is correct?",
+   "options": [
+    "Making up for lost sleep is sufficient",
+    "Using phone before bed helps with falling asleep",
+    "Maintaining regular sleep schedule is important",
+    "Alcohol helps with sleep"
+   ],
+   "answer": 2
+  }
+ ],
+ "Medical Safety": [
+  {
+   "question": "Regarding medication storage, which practice is correct?",
+   "options": [
+    "Store all medications together for convenience",
+    "Store medications in a cool, dry place and check expiration dates",
+    "Transfer medications to other containers",
+    "Continue using expired medications"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "When taking antibiotics, which statement is correct?",
+   "options": [
+    "Can stop when feeling better",
+    "Can adjust dosage by yourself",
+    "Must complete the full course as prescribed",
+    "Can share with others who have similar symptoms"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When using medical devices, what's most important?",
+   "options": [
+    "Low price and good value",
+    "Attractive appearance",
+    "Ensure product qualification and correct usage",
+    "Brand popularity"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "If discomfort occurs during IV infusion, you should:",
+   "options": [
+    "Adjust the drip rate yourself",
+    "Endure until completion",
+    "Immediately notify medical staff",
+    "Remove the needle directly"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding prescription medication use, which is correct?",
+   "options": [
+    "Can buy directly online",
+    "Purchase from legitimate pharmacies with prescription",
+    "Can borrow others' prescriptions",
+    "Can buy without prescription"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Before surgery, hospitals should:",
+   "options": [
+    "Arrange surgery quickly without explanation",
+    "Explain surgical risks in detail and obtain informed consent",
+    "Only inform family members",
+    "Provide brief mention only"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "When safety issues are found in medical devices, one should:",
+   "options": [
+    "Continue using until breakdown",
+    "Repair and use by yourself",
+    "Stop using immediately and report to relevant authorities",
+    "Wait for others to discover and handle"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding medical waste disposal, the correct approach is:",
+   "options": [
+    "Dispose in regular trash",
+    "Handle and destroy by yourself",
+    "Classify according to regulations and handle through professional agencies",
+    "Dispose randomly"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "In disinfection procedures, what's most important?",
+   "options": [
+    "Use the most expensive disinfectant",
+    "Follow standard procedures and protocols",
+    "Disinfect for as long as possible",
+    "Operate based on experience"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding medical records, the correct practice is:",
+   "options": [
+    "Can be modified at will",
+    "Complete documentation not necessary",
+    "Fill strictly according to standards and maintain properly",
+    "Can be completed at home"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When using life support equipment like ventilators, one should:",
+   "options": [
+    "Regularly check equipment status and parameters",
+    "Ignore if everything seems fine",
+    "Disregard alarms",
+    "Adjust parameters at will"
+   ],
+   "answer": 0
+  }
+ ],
+ "Public Health": [
+  {
+   "question": "During a disease outbreak, which practice is most correct?",
+   "options": [
+    "Hoard masks and disinfectants",
+    "Follow prevention guidelines and maintain personal hygiene",
+    "Don't wear masks to build immunity",
+    "Spread unverified prevention information"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding vaccination, which statement is correct?",
+   "options": [
+    "Vaccination is completely unnecessary",
+    "Can get vaccinated while having a cold",
+    "Should follow standard immunization schedule",
+    "No need for vaccination when older"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "When discovering food safety issues, one should:",
+   "options": [
+    "Resolve privately without publicity",
+    "Expose on social media",
+    "Report to food safety authorities",
+    "Ignore the problem"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding public space hygiene, which is correct?",
+   "options": [
+    "Maintaining cleanliness is janitors' responsibility",
+    "Everyone has the duty to maintain public hygiene",
+    "Only care about personal impact",
+    "No need to care if others clean"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Most important in drinking water safety management is:",
+   "options": [
+    "Regular water quality testing and standard compliance",
+    "Just drink bottled water",
+    "Boiling water is enough",
+    "If it looks clean, it's fine"
+   ],
+   "answer": 0
+  },
+  {
+   "question": "Regarding vector-borne disease control, the correct approach is:",
+   "options": [
+    "Deal with it after discovery",
+    "Only handle within home boundaries",
+    "Community-wide prevention and control",
+    "Use highly toxic pesticides for complete elimination"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "During public health events, the public should:",
+   "options": [
+    "Trust information from authoritative sources",
+    "Believe various rumors",
+    "Hoard daily necessities",
+    "Take no protective measures"
+   ],
+   "answer": 0
+  },
+  {
+   "question": "Regarding smoking in public places, which statement is correct?",
+   "options": [
+    "Smoke in designated areas",
+    "Just avoid crowds when smoking",
+    "Can smoke in open areas",
+    "No-smoking signs are just suggestions"
+   ],
+   "answer": 0
+  },
+  {
+   "question": "Regarding reporting public health emergencies, which is correct?",
+   "options": [
+    "Keep quiet to avoid panic",
+    "Wait for others to report",
+    "Report to relevant authorities promptly",
+    "Report anonymously online"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding waste sorting, the correct practice is:",
+   "options": [
+    "Dispose all waste together",
+    "Sort and dispose according to regulations",
+    "Dump in remote locations",
+    "Burning is more convenient"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "The main purpose of health screening is:",
+   "options": [
+    "Meet government quotas",
+    "Early detection and intervention of health issues",
+    "Collect resident information",
+    "Create job opportunities"
+   ],
+   "answer": 1
+  }
+ ],
+ "Nutrition and Diet": [
+  {
+   "question": "The dietary principle for diabetic patients is:",
+   "options": [
+    "Completely forbid carbohydrates",
+    "Control total calories and eat regularly",
+    "Eat whatever you want",
+    "Only eat fruits, no staple food"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding food storage, which statement is correct?",
+   "options": [
+    "Room temperature storage is fine",
+    "Raw and cooked food can be stored together",
+    "Strictly follow expiration dates and storage conditions",
+    "Expired food is edible if it doesn't smell bad"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Dietary recommendations for hypertensive patients include:",
+   "options": [
+    "Eat more pickled vegetables for salt",
+    "Limit sodium intake, eat more fruits and vegetables",
+    "No special dietary considerations needed",
+    "Binge eating is fine"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Which nutrient is most important for bone health?",
+   "options": [
+    "Vitamin C",
+    "Sodium",
+    "Calcium and Vitamin D",
+    "Iron"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding dietary fiber, which statement is correct?",
+   "options": [
+    "Less is better",
+    "Has no impact on health",
+    "Beneficial for intestinal health",
+    "Only young people need it"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Dietary considerations for pregnant women include:",
+   "options": [
+    "Diet to control weight",
+    "Supplement with nutrients like folic acid",
+    "Alcohol consumption is allowed",
+    "Eat whatever you want"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding protein intake, which is correct?",
+   "options": [
+    "More is better",
+    "Not needed at all",
+    "Need appropriate balanced intake",
+    "Only athletes need it"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Which eating behavior is most unhealthy?",
+   "options": [
+    "Eating at regular times and portions",
+    "Chewing thoroughly",
+    "Binge eating",
+    "Diverse food choices"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding vitamin supplementation, the correct approach is:",
+   "options": [
+    "Take vitamin pills daily",
+    "Obtain through balanced diet",
+    "More is better",
+    "Not needed at all"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "After food poisoning, one should first:",
+   "options": [
+    "Induce vomiting and seek medical attention",
+    "Continue eating to dilute",
+    "Wait for natural recovery",
+    "Take anti-diarrheal medication"
+   ],
+   "answer": 0
+  },
+  {
+   "question": "Healthy cooking methods include:",
+   "options": [
+    "Deep frying",
+    "Mainly steaming and stewing",
+    "Heavy seasoning",
+    "Mainly frying"
+   ],
+   "answer": 1
+  }
+ ],
+ "Healthcare System": [
+  {
+   "question": "Regarding medical insurance reimbursement, which statement is correct?",
+   "options": [
+    "All expenses can be reimbursed",
+    "Reimbursement according to regulations and ratios",
+    "Only hospitalization can be reimbursed",
+    "Self-paid medications can be reimbursed"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "The reasonable medical treatment process is:",
+   "options": [
+    "Go directly to large hospitals for specialists",
+    "Start with primary care then transfer if needed",
+    "Choose any hospital freely",
+    "Only go to private hospitals"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding emergency medical treatment, which is correct?",
+   "options": [
+    "All conditions can go through emergency",
+    "Must pay before treatment",
+    "Life-threatening conditions can be treated before payment",
+    "Only elderly can use emergency services"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "Regarding hospital classification, which statement is correct?",
+   "options": [
+    "Only tertiary hospitals are reliable",
+    "Primary healthcare institutions are useless",
+    "Different level hospitals have different responsibilities",
+    "Higher level hospitals are always better"
+   ],
+   "answer": 2
+  },
+  {
+   "question": "The correct approach to appointment registration is:",
+   "options": [
+    "Only on-site registration",
+    "Book in advance through official channels",
+    "Use scalpers for registration",
+    "Can see doctor anytime"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding medical expenses, which statement is correct?",
+   "options": [
+    "More expensive medicine is better",
+    "Use medical insurance resources reasonably",
+    "Self-pay is better",
+    "Cost doesn't matter"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding family doctor contract services:",
+   "options": [
+    "Only wealthy people need it",
+    "It's an important form of primary healthcare",
+    "Has no practical use",
+    "Only useful for elderly"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "The principle for using electronic medical records is:",
+   "options": [
+    "Can be modified at will",
+    "Strictly follow confidentiality regulations",
+    "Can be shared with others",
+    "No need for special security"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding telemedicine, which is correct?",
+   "options": [
+    "Completely replaces traditional medical care",
+    "Supplements traditional medical care",
+    "Unreliable and shouldn't be used",
+    "Just a marketing tool"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "The purpose of healthcare institution assessment is:",
+   "options": [
+    "Rank hospital levels",
+    "Improve medical service quality",
+    "Increase hospital income",
+    "Complete administrative tasks"
+   ],
+   "answer": 1
+  },
+  {
+   "question": "Regarding medical dispute mediation, which is correct?",
+   "options": [
+    "Can only be resolved through lawsuits",
+    "Resolve through legal negotiation channels",
+    "Better to resolve privately",
+    "No need to handle"
+   ],
+   "answer": 1
+  }
+ ]
+}
